@@ -17,23 +17,21 @@
 - 完成PPT分析报告，完整呈现从数据清洗到策略输出的全流程
 
 ## 项目文件结构
-├── README.md
-├── project2.py # Python代码（数据抽样+指标计算）
+├── README.md                                                            
+├── project2.py # Python代码（数据抽样+指标计算）                 
 ├── user_behavior_sample_1percent.csv # 1%随机抽样数据（81,640条）
-├── user_active_days.csv # 用户活跃天数与分层结果
-├── dau.csv # 每日活跃用户数
-├── hourly_active.csv # 各时段活跃用户分布
-├── powerbi_dashboard.pbix # Power BI交互式看板
-├── spss_anova.pdf # SPSS ANOVA分析结果
-├── 运营商用户行为分析报告.pptx # PPT分析报告
-└── 运营商用户行为分析报告.pdf # PDF分析报告
-
-text
+├── user_active_days.csv # 用户活跃天数与分层结果                 
+├── dau.csv # 每日活跃用户数                                         
+├── hourly_active.csv # 各时段活跃用户分布                    
+├── powerbi_dashboard.pbix # Power BI交互式看板         
+├── spss_anova.pdf # SPSS ANOVA分析结果                 
+├── 运营商用户行为分析报告.pptx # PPT分析报告                
+└── 运营商用户行为分析报告.pdf # PDF分析报告          
 
 ## 快速查看
-- 📊 看板效果：下载 `powerbi_dashboard.pbix` 用Power BI Desktop打开
-- 📈 分析结果：查看 `spss_anova.pdf` 了解统计显著性验证
-- 📄 完整报告：下载 `运营商用户行为分析报告.pdf`
+-  看板效果：下载 `powerbi_dashboard.pbix` 用Power BI Desktop打开
+-  分析结果：查看 `spss_anova.pdf` 了解统计显著性验证
+-  完整报告：下载 `运营商用户行为分析报告.pdf`
 
 ## 作者
-蒲俊霖 | 数据科学与大数据技术 | 2026年5月
+蒲俊霖 | 数据科学与大数据技术 | 2026年4月
