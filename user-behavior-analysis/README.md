@@ -19,11 +19,11 @@
 ## 项目文件结构
 ├── README.md                                                            
 ├── project2.py # Python代码（数据抽样+指标计算）                 
-├── user_behavior_sample_1percent.csv # 1%随机抽样数据（81,640条）
+├── user_behavior_sample_1percent.csv # 1%随机抽样数据（81,640条）             
 ├── user_active_days.csv # 用户活跃天数与分层结果                 
 ├── dau.csv # 每日活跃用户数                                         
 ├── hourly_active.csv # 各时段活跃用户分布                    
-├── powerbi_dashboard.pbix # Power BI交互式看板         
+├── powerbi_dashboard.pbix # Power BI交互式看板                  
 ├── spss_anova.pdf # SPSS ANOVA分析结果                 
 ├── 运营商用户行为分析报告.pptx # PPT分析报告                
 └── 运营商用户行为分析报告.pdf # PDF分析报告          
