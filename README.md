@@ -33,6 +33,14 @@
 - SQL：datagrip（窗口函数、CTE、子查询）  
 - Excel：数据透视表、双轴图、条形图
 
+---
+
+##  运营商用户行为分析与用户分群
+
+基于 Python + SPSS + Power BI 的用户行为深度分析项目，包含用户价值分层、ANOVA统计显著性检验和Power BI交互式看板。
+
+👉 [查看项目文件](./user-behavior-analysis/)
+
 ## 作者
 蒲俊霖 | 数据科学与大数据技术 大三  
 项目时间：2026年4月
